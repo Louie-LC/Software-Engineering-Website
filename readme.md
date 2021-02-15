@@ -1,1 +1,2 @@
-
+#Computer Science Web Forum
+This was a group project created for the course "CS319 Writing Intensive Program - Software Engineering". One of the main goals of the project was creating a Software Requirement Specification and then an Analysis and Design Document, detailing what needed to be done to create the webstite. The file "CS319 - ADD.pdf" in the ADD folder is the final version of the ADD. This document details the design goals and structure of the webstite.
